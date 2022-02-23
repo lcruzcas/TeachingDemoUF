@@ -4,7 +4,9 @@
 What are the incremental steps that you would use to achieve the following goal?
 
 You are asked to design a software tool that 
+
 (1) asks for input of the age (in years) of a user (e.g., 21)
+
 (2) outputs whether the year the person was born is “odd” or “even”.  (e.g., 2001 is “odd”)
 
 Hint: You are able to ask for one more input from the user if you need it.
