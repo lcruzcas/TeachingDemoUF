@@ -1,6 +1,6 @@
 # Class 9 - Incremental development
 
-## Exercises
+## Exercise
 What are the incremental steps that you would use to achieve the following goal?
 
 You are asked to design a software tool that 
