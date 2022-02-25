@@ -20,6 +20,4 @@ This repository contains two possible solutions for this problem.
 
 **Solution 2** corresponds to a solution without asking an extra input from the user. 
 
-**Solution 3** does not hardcode the date
-
 Feel free to clone the repository if this is of your interest. Thanks!
