@@ -20,4 +20,13 @@ This repository contains two possible solutions for this problem.
 
 **Solution 2** corresponds to a solution without asking an extra input from the user. 
 
-Feel free to clone the repository if this is of your interest. Thanks!
+## Exercise: 
+
+Clone the current repository and create you own branch including the following two changes: 
+
+(1) Create another functions that takes the inputs from the user. What type of function is this?
+
+(2) (optional) Change the program so that is does not hardcode the year (2022) but rather takes the current year automatically. 
+https://stackoverflow.com/questions/15957805/extract-year-month-day-etc-from-stdchronotime-point-in-c
+
+
