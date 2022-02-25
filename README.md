@@ -24,7 +24,7 @@ This repository contains two possible solutions for this problem.
 
 Clone the current repository and create you own branch including the following two changes: 
 
-(1) Create another function that takes the inputs from the user. The function will be called *input_user*. What data type would be appropiate for this function?
+(1) Include in Solution 1 a function that takes the inputs from the user. The function will be called *input_user*. What data type would be appropiate for this function?
 
 (2) (optional) Change the program so that is does not hardcode the year (2022) but rather takes the current year automatically. 
 https://stackoverflow.com/questions/15957805/extract-year-month-day-etc-from-stdchronotime-point-in-c
